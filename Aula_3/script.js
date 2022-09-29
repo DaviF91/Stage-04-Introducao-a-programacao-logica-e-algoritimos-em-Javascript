@@ -1,4 +1,5 @@
-/* 
+/*  Aula 3 - Somar dois números
+
   Solicite 2 números, faça a soma deles e apresente o resultadofinal ao usuário 
 */
 alert("Iremos somar dois números")
